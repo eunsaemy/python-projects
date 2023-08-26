@@ -12,3 +12,11 @@ question_data = [
         "answer": "True",
     },
 ]
+
+
+def main():
+    pass
+
+
+if __name__ == "__main__":
+    main()
